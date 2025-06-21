@@ -17,11 +17,17 @@ econômicos e sociais. A conclusão convida o leitor a refletir sobre o papel da
 
 ## 🤖 Tecnologias Utilizadas
 Ferramenta de IA	Link
+
 DeepSeek	https://www.deepseek.com/
+
 RocketWriter.ai	https://rocketwriter.ai/
+
 ChatGPT	https://chat.openai.com/
+
 Canva	https://www.canva.com/
+
 Microsoft Word	https://www.microsoft.com/word
+
 Leonardo.AI	https://leonardo.ai/
 
 ## 🧐 Processo de Criação
