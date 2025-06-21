@@ -16,18 +16,18 @@ econômicos e sociais. A conclusão convida o leitor a refletir sobre o papel da
 "O Futuro Digital em Jogo" é um guia essencial para profissionais, estudantes e curiosos que desejam compreender e navegar o cenário digital em transformação, preparando-se para os desafios e oportunidades que estão por vir.(Gerado pelo Deepseek)
 
 ## 🤖 Tecnologias Utilizadas
-Canva
-Deepseek
-Rocketwriter.ai
-Chat Gpt
-Canva
-Microsoft Word
-Leornardo.ai
+Ferramenta de IA	Link
+DeepSeek	https://www.deepseek.com/
+RocketWriter.ai	https://rocketwriter.ai/
+ChatGPT	https://chat.openai.com/
+Canva	https://www.canva.com/
+Microsoft Word	https://www.microsoft.com/word
+Leonardo.AI	https://leonardo.ai/
 
 ## 🧐 Processo de Criação
 Primeiro, fiz um roteiro com o chatgpt para organizar os capítulos e tópicos principais abordados no livro. Depois de confirmados os prompts, usei o Leonardo ai para gerar uma base para
 a capa e editá-la posteriormente com o Canva. Sobre o conteúdo, após gerar um arquivo word com a organização dos capítulos e informações reunidas, usei a rocketwriter.ai, um modelo
-especializado na escrita de e-books. Vi que o resultado foi muito profissional, e em seguida usei a ferramenta do ILovePdf para juntar a capa e o arquivo pdf.
+especializado na escrita de e-books. Vi que o resultado foi muito profissional, e em seguida usei a ferramenta do ILovePdf para juntar a capa e o arquivo pdf. Após comitar no github, achei que seria legal gerar uma sinopse com o Deepseek.
 
 ## 🚀 Resultados
 Percebi que o uso de IA aumenta muitas vezes a qualidade do material gerado dependendo da especificação. E diminui o processo e esforço da criação, e por conta disso o material gerado neste
